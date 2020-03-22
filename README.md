@@ -1,5 +1,5 @@
 # shopping-mall
-
+## 效果图
 ![效果预览](https://github.com/zehongguo/vuecoderwhysupermall/blob/master/images/spuer-mall.gif)
 
 ## Project setup
