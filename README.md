@@ -1,6 +1,6 @@
 # shopping-mall
 
-![效果预览](./images/super-mall.gif)
+![效果预览](https://github.com/zehongguo/vuecoderwhysupermall/blob/master/images/spuer-mall.gif)
 
 ## Project setup
 ```
