@@ -1,5 +1,7 @@
 # shopping-mall
 
+![效果预览](./images/super-mall.gif)
+
 ## Project setup
 ```
 npm install
